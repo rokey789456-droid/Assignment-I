@@ -11,5 +11,5 @@ En este repositorio se encuentran los entregables de la actividad:
 
 ## Autores
 Estudiantes: * Andres Felipe Cruz
-            * David Cruz Altamirano
-            * Isabella Pacheco Marín
+            ,David Cruz Altamirano
+            , Isabella Pacheco Marín
