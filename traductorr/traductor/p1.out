@@ -1,0 +1,31 @@
+
+--- INICIO DE EJECUCION ---
+  [0] SET D5 12 NULL NULL
+  [1] SET D2 23 NULL NULL
+  [2] SET D8 3 NULL NULL
+  [3] SET D3 5 NULL NULL
+  [4] LDR D2 NULL NULL NULL
+  [5] ADD D5 NULL NULL NULL
+  [6] ADD D8 NULL NULL NULL
+  [7] STR D3 NULL NULL NULL
+  [8] LDR D3 NULL NULL NULL
+  [9] ADD D2 NULL NULL NULL
+  [10] STR D2 NULL NULL NULL
+  [11] SHW D2 NULL NULL NULL
+  >> D2 = 61
+  [12] END NULL NULL NULL NULL
+  [END] Programa finalizado.
+--- FIN DE EJECUCION ---
+
+[Registros CPU]
+  ACC = 61
+  ICR = 12
+  MAR = 2
+  MDR = 61
+  UC   = DETENIDA
+
+[Memoria Principal - posiciones modificadas]
+  D2 = 61
+  D3 = 38
+  D5 = 12
+  D8 = 3
