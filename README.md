@@ -9,7 +9,7 @@ En este repositorio se encuentran los entregables de la actividad:
 - Dos actividades realizadas con Docker.
 - Respuestas a las preguntas teóricas asignadas.
 
-## Autor
-Estudiante: * Andres Felipe Cruz
+## Autores
+Estudiantes: * Andres Felipe Cruz
             * David Cruz Altamirano
             * Isabella Pacheco Marín
